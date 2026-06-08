@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mizcausevic-dev.github.io/databricks-lakehouse-cost-ledger/sitemap.xml
